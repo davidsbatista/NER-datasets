@@ -2,14 +2,14 @@
 Datasets to train supervised classifiers for Named-Entity Recognition
 
 
-### Portuguese
+### Portuguese(#pt)
  * HAREM
  * Paramopama
 
 
-### German
+### German(#de)
  * GermEval2014
 
 
-### English
+### English(#en)
  * CONLL2003
