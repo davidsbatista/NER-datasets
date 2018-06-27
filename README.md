@@ -8,7 +8,7 @@ Datasets to train supervised classifiers for Named-Entity Recognition
 
 <a name="de"></a>
 ### German
- * GermEval2014
+ * [GermEval2014](https://github.com/davidsbatista/NER-datasets/tree/master/GermEval2014)
  * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
  
 <a name="nl"></a>
@@ -21,4 +21,4 @@ Datasets to train supervised classifiers for Named-Entity Recognition
 
 <a name="en"></a>
 ### English
- * CONLL2003
+ * [CONLL2003](https://github.com/davidsbatista/NER-datasets/tree/master/CONLL2003)
