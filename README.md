@@ -9,15 +9,15 @@ Datasets to train supervised classifiers for Named-Entity Recognition
 <a name="de"></a>
 ### German
  * GermEval2014
- * Europeana Newspapers 
+ * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
  
 <a name="nl"></a>
 ### Dutch
- * Europeana Newspapers
+ * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
 
 <a name="fr"></a>
 ### French
- * Europeana Newspapers
+ * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
 
 <a name="en"></a>
 ### English
