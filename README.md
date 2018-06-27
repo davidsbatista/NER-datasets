@@ -7,9 +7,9 @@ Datasets to train supervised classifiers for Named-Entity Recognition
  * Paramopama
 
 <a name="de"></a>
-### German(#de)
+### German
  * GermEval2014
 
 <a name="en"></a>
-### English(#en)
+### English
  * CONLL2003
