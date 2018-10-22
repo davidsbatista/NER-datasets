@@ -53,6 +53,7 @@ Extends the PtBR version of WikiNER corpus, revising incorrect assigned tags in 
 
 leNER-Br
 ========
+A dataset for named entity recognition in Brazilian legal documents is, unlike other Portuguese language datasets, this dataset is composed entirely of legal documents. In addition to tags for persons, locations, time entities and organizations, the dataset contains specific tags for law and legal cases entities.
 
 - **data**:
   - [train.conll](leNER-Br/train.conll)
