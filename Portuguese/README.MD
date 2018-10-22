@@ -40,7 +40,7 @@ Paramopama
 
   - [corpus_Paramopama.txt](corpus_Paramopama.txt)
 
-  - [corpus_miniHAREM.txt](corpus_miniHAREM.txt]()
+  - [corpus_miniHAREM.txt](corpus_miniHAREM.txt)
 
   - [corpus_paramopama+second_harem.txt](corpus_paramopama+second_harem.txt)
 
