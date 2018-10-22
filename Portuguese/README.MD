@@ -7,19 +7,19 @@ NER-datasets for Portuguese
 
 #### First HAREM
 
-- **data**: [ColeccaoDouradaHAREM.txt](ColeccaoDouradaHAREM.txt)
-- **cite**: ["HAREM: An Advanced NER Evaluation Contest for Portuguese"](SantosSecoCardosoVilelaLREC2006.pdf)
+- **data**: [ColeccaoDouradaHAREM.txt](HAREM/ColeccaoDouradaHAREM.txt)
+- **cite**: ["HAREM: An Advanced NER Evaluation Contest for Portuguese"](HAREM/SantosSecoCardosoVilelaLREC2006.pdf)
 
 #### Second HAREM
 
 - **data**:
 
-  -  [CDSegundoHAREMclassico.xml](CDSegundoHAREMclassico.xml): named-entities
-  - [CDSegundoHAREM_TEMPO.xml](CDSegundoHAREM_TEMPO.xml): named-entities and time expressions are grounded to a time/date structure.
-  - [CDSegundoHAREMReRelEM.xml](CDSegundoHAREMReRelEM.xml): named-entities and relationships.
+  -  [CDSegundoHAREMclassico.xml](HAREM/CDSegundoHAREMclassico.xml): named-entities
+  - [CDSegundoHAREM_TEMPO.xml](HAREM/CDSegundoHAREM_TEMPO.xml): named-entities and time expressions are grounded to a time/date structure.
+  - [CDSegundoHAREMReRelEM.xml](HAREM/CDSegundoHAREMReRelEM.xml): named-entities and relationships.
 
 
-- **cite**: ["Second HAREM: Advancing the State of the Art of Named Entity Recognition in Portuguese"](FreitasetalLREC2010.pdf)
+- **cite**: ["Second HAREM: Advancing the State of the Art of Named Entity Recognition in Portuguese"](HAREM/FreitasetalLREC2010.pdf)
 
 
 **NOTE:** the XML format might be painfull to parse, check the Paramopama corpus which includes
@@ -41,13 +41,13 @@ Extends the PtBR version of WikiNER corpus, revising incorrect assigned tags in 
 
 - **data**:
 
-  - [corpus_First_HAREM.txt](corpus_First_HAREM.txt)
-  - [corpus_miniHAREM.txt](corpus_miniHAREM.txt)
-  - [corpus_Paramopama.txt](corpus_Paramopama.txt)  
-  - [corpus_paramopama+second_harem.txt](corpus_paramopama+second_harem.txt)
+  - [corpus_First_HAREM.txt](Paramopama/corpus_First_HAREM.txt)
+  - [corpus_miniHAREM.txt](Paramopama/corpus_miniHAREM.txt)
+  - [corpus_Paramopama.txt](Paramopama/corpus_Paramopama.txt)  
+  - [corpus_paramopama+second_harem.txt](Paramopama/corpus_paramopama+second_harem.txt)
 
 
-- **cite**: ["Paramopama: a Brazilian-Portuguese Corpus for Named Entity Recognition"](Paramopama.pdf)
+- **cite**: ["Paramopama: a Brazilian-Portuguese Corpus for Named Entity Recognition"](Paramopama/Paramopama.pdf)
 
 
 
