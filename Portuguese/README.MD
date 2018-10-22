@@ -54,5 +54,6 @@ leNER-Br
 
 
 - **cite**: ["LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text"](luz_etal_propor2018.pdf)
+- **web**: https://cic.unb.br/~teodecampos/LeNER-Br/
 
 
