@@ -3,8 +3,7 @@ NER-datasets for Portuguese
 
 # HAREM
 
-
-[HAREM](https://www.linguateca.pt/HAREM/) is an evaluation contest for named entity recognition in Portuguese. There were two editions:
+[HAREM](https://www.linguateca.pt/HAREM/) was an evaluation contest for named entity recognition in Portuguese. There were two editions:
 
 #### First HAREM
 
@@ -27,10 +26,16 @@ NER-datasets for Portuguese
 the HAREM data in CoNNL format.
 
 
+
+WikiNER
+=======
+
+
+
+
 Paramopama
 ==========
-
-
+Extends the PtBR version of WikiNER corpus, revising incorrect assigned tags in order to improve corpus quality.
 
 - **data**:
 
