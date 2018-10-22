@@ -29,13 +29,15 @@ the HAREM data in CoNNL format.
 
 WikiNER
 =======
+A NER-corpus based on exploration of inter-document links in Wikipedia.
 
-
+- **data**: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- **cite**: ["Learning multilingual named entity recognition from Wikipedia"](https://www.sciencedirect.com/science/article/pii/S0004370212000276)
 
 
 Paramopama
 ==========
-Extends the PtBR version of WikiNER corpus, revising incorrect assigned tags in order to improve corpus quality.
+Extends the PtBR version of WikiNER corpus, revising incorrect assigned tags in order to improve corpus quality. In the experiments the authors also produced a CoNNL format version of the HAREM corpus, which made publicly available:
 
 - **data**:
 
