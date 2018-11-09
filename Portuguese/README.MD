@@ -1,7 +1,7 @@
-NER-datasets for Portuguese
+# NER-datasets for Portuguese
 
 
-# HAREM
+## HAREM
 
 [HAREM](https://www.linguateca.pt/HAREM/) was an evaluation contest for named entity recognition in Portuguese. There were two editions:
 
