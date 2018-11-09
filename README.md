@@ -2,9 +2,11 @@
 Datasets to train supervised classifiers for Named-Entity Recognition
 
 <a name="pt"></a>
-### Portuguese
+### [Portuguese](https://github.com/davidsbatista/NER-datasets/tree/master/Portuguese)
  * HAREM
+ * WikiNER
  * Paramopama
+ * leNER-br
 
 <a name="de"></a>
 ### German
