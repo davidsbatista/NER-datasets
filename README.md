@@ -7,6 +7,7 @@ Datasets to train supervised classifiers for Named-Entity Recognition
  * WikiNER
  * Paramopama
  * leNER-br
+ * Peres2017
 
 <a name="de"></a>
 ### German

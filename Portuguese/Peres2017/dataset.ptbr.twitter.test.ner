@@ -1,0 +1,908 @@
+tweet_id	start_pos	end_pos	named_entity_type
+854831714446737408	0	0	No entities found in this tweet
+854831714400706560	0	0	No entities found in this tweet
+854831714337787905	0	0	No entities found in this tweet
+854831714002100224	0	0	No entities found in this tweet
+854831713637330944	0	0	No entities found in this tweet
+854831713213722627	0	0	No entities found in this tweet
+854831713196888065	5	9	B-person
+854831712974643201	0	0	No entities found in this tweet
+854831712957759488	1	7	B-person
+854831712798482433	0	0	No entities found in this tweet
+854831712639037440	0	0	No entities found in this tweet
+854831712538439680	0	0	No entities found in this tweet
+854831712412590081	0	0	No entities found in this tweet
+854831711900901378	25	31	B-person
+854831711900901378	106	112	B-person
+854831711343050752	0	0	No entities found in this tweet
+854831711213023233	0	0	No entities found in this tweet
+854831710986436609	0	0	No entities found in this tweet
+854831710789390337	0	0	No entities found in this tweet
+854831710705524740	18	23	B-location
+854831710705524740	24	29	I-location
+854831710705524740	18	23	B-location
+854831710705524740	24	29	I-location
+854831710705524740	46	49	B-location
+854831710705524740	50	55	I-location
+854831710688751616	0	0	No entities found in this tweet
+854831710411919360	0	0	No entities found in this tweet
+854831709963120641	40	44	B-person
+854831709757612032	0	0	No entities found in this tweet
+854847076395622400	68	71	B-person
+854847076395622400	116	118	B-person
+854847076395622400	119	126	I-person
+854847076395622400	68	71	B-person
+854847076160724992	0	0	No entities found in this tweet
+854847076156547072	0	0	No entities found in this tweet
+854847076122980357	27	30	B-organization
+854847076068466693	0	0	No entities found in this tweet
+854847075862933505	0	0	No entities found in this tweet
+854847075644735488	0	0	No entities found in this tweet
+854847075493838848	7	16	B-organization
+854847075342831618	0	0	No entities found in this tweet
+854847075242172417	0	0	No entities found in this tweet
+854847074915016705	0	0	No entities found in this tweet
+854847074852102144	38	42	B-organization
+854847074738860032	0	0	No entities found in this tweet
+854847074646585346	0	0	No entities found in this tweet
+854847074428493824	0	0	No entities found in this tweet
+854847074000678912	0	0	No entities found in this tweet
+854847073891561472	27	36	B-location
+854847073891561472	37	39	I-location
+854847073891561472	40	45	I-location
+854847073241485312	0	0	No entities found in this tweet
+854847073145016321	66	73	B-person
+854847072855625728	0	0	No entities found in this tweet
+854847072788467712	0	0	No entities found in this tweet
+854847072759160832	0	0	No entities found in this tweet
+854847072696233985	0	0	No entities found in this tweet
+854847072486424578	0	0	No entities found in this tweet
+854847072394256385	0	0	No entities found in this tweet
+854847072352309249	15	19	B-person
+854847072213839873	0	0	No entities found in this tweet
+854847071999979520	0	0	No entities found in this tweet
+854847071920295936	0	0	No entities found in this tweet
+854847071853084672	0	0	No entities found in this tweet
+854847071748313089	0	0	No entities found in this tweet
+854847071685357568	0	0	No entities found in this tweet
+854847071672819712	49	54	B-organization
+854847071672819712	55	59	I-organization
+854847071672819712	60	73	I-organization
+854847071580499968	0	0	No entities found in this tweet
+854847071454715904	0	0	No entities found in this tweet
+854847071399985153	0	0	No entities found in this tweet
+854847071152742400	0	0	No entities found in this tweet
+854847071148535808	0	0	No entities found in this tweet
+854847071039496192	1	6	B-person
+854847071039496192	7	14	I-person
+854847070703890432	0	0	No entities found in this tweet
+854859399898292224	1	8	B-person
+854859399898292224	17	23	B-location
+854859399768272896	0	0	No entities found in this tweet
+854859399680151552	0	0	No entities found in this tweet
+854859399671820288	0	0	No entities found in this tweet
+854859399365619714	0	0	No entities found in this tweet
+854859399206187008	0	0	No entities found in this tweet
+854859399181070336	0	0	No entities found in this tweet
+854859399046868992	0	0	No entities found in this tweet
+854859399021690880	1	11	B-person
+854859399021690880	13	24	B-person
+854859399021690880	27	39	B-person
+854859398820319232	0	0	No entities found in this tweet
+854859398623236096	16	22	B-organization
+854859398623236096	51	58	B-organization
+854859398568652800	56	65	B-organization
+854859398568652800	107	113	B-person
+854859398514180096	0	0	No entities found in this tweet
+854859398329630720	0	0	No entities found in this tweet
+854859397809545217	6	11	B-organization
+854859397578842113	0	0	No entities found in this tweet
+854859397406896129	0	0	No entities found in this tweet
+854859397230669824	0	0	No entities found in this tweet
+854859397163515904	0	0	No entities found in this tweet
+854859396802891776	0	0	No entities found in this tweet
+854859396802850817	0	0	No entities found in this tweet
+854859396689649665	0	0	No entities found in this tweet
+854859396605558784	1	5	B-organization
+854859396605558784	6	14	I-organization
+854859396605558784	35	39	B-organization
+854859396605558784	40	42	I-organization
+854859396429606912	0	0	No entities found in this tweet
+854859396375080960	0	0	No entities found in this tweet
+854859396358262784	0	0	No entities found in this tweet
+854859396345671680	0	0	No entities found in this tweet
+854859396010180608	0	0	No entities found in this tweet
+854859395825627136	0	0	No entities found in this tweet
+854859395771117568	0	0	No entities found in this tweet
+854859395532038145	0	0	No entities found in this tweet
+854859395229995008	0	0	No entities found in this tweet
+854859394919669761	0	0	No entities found in this tweet
+854859394793820161	7	13	B-person
+854859394789634049	15	20	B-location
+854874760521670657	0	0	No entities found in this tweet
+854874760278417408	0	0	No entities found in this tweet
+854874760114819074	34	41	B-person
+854874760089567236	0	0	No entities found in this tweet
+854874760060305410	0	0	No entities found in this tweet
+854874760047669250	0	0	No entities found in this tweet
+854874759963836416	0	0	No entities found in this tweet
+854874759892525056	0	0	No entities found in this tweet
+854874759846350850	0	0	No entities found in this tweet
+854874759787667460	0	0	No entities found in this tweet
+854874759766605825	0	0	No entities found in this tweet
+854874759384977410	0	0	No entities found in this tweet
+854874759175307264	0	0	No entities found in this tweet
+854874759062056960	1	4	B-person
+854874759062056960	5	10	I-person
+854874758835556352	0	0	No entities found in this tweet
+854874758776840192	11	16	B-person
+854874758483202048	0	0	No entities found in this tweet
+854874758084689922	0	0	No entities found in this tweet
+854874758021865472	0	0	No entities found in this tweet
+854874757879214081	0	0	No entities found in this tweet
+854874757841518592	0	0	No entities found in this tweet
+854874757803773952	0	0	No entities found in this tweet
+854874757791141888	0	0	No entities found in this tweet
+854874757216468992	0	0	No entities found in this tweet
+854874756746805249	0	0	No entities found in this tweet
+854874756595802112	0	0	No entities found in this tweet
+854874756516106240	0	0	No entities found in this tweet
+854874756511932416	0	0	No entities found in this tweet
+854890121082142723	1	7	B-person
+854890121014980608	1	7	B-person
+854890121010839552	0	0	No entities found in this tweet
+854890120960454656	18	29	B-organization
+854890120960454656	69	74	B-location
+854890120859840512	1	7	B-person
+854890120453009408	0	0	No entities found in this tweet
+854890120381681664	0	0	No entities found in this tweet
+854890120213917696	1	7	B-person
+854890120150953988	0	0	No entities found in this tweet
+854890120104857600	9	15	B-person
+854890119991619584	8	14	B-person
+854890119869943808	0	0	No entities found in this tweet
+854890119815462913	0	0	No entities found in this tweet
+854890119744114688	13	18	B-person
+854890119744114688	21	25	B-person
+854890119681146885	0	0	No entities found in this tweet
+854890119614091269	0	0	No entities found in this tweet
+854890119547027456	0	0	No entities found in this tweet
+854890119471431680	0	0	No entities found in this tweet
+854890119454707715	0	0	No entities found in this tweet
+854890119450562560	0	0	No entities found in this tweet
+854890119442161665	0	0	No entities found in this tweet
+854890119442116608	10	21	B-organization
+854890119442116608	24	29	B-organization
+854890119312150530	131	138	B-person
+854890119295324162	0	0	No entities found in this tweet
+854890119291166721	0	0	No entities found in this tweet
+854890119123357698	4	9	B-person
+854890118712348672	0	0	No entities found in this tweet
+854890118699724800	0	0	No entities found in this tweet
+854890118674612225	0	0	No entities found in this tweet
+854890118603210753	0	0	No entities found in this tweet
+854890118586540032	0	0	No entities found in this tweet
+854890118343270400	0	0	No entities found in this tweet
+854890118208999424	44	50	B-organization
+854890118208999424	61	72	B-organization
+854890118146129922	5	9	B-person
+854890118137688065	0	0	No entities found in this tweet
+854890118037065728	23	28	B-person
+854890118037065728	29	36	I-person
+854890117890285568	0	0	No entities found in this tweet
+854890117768634368	0	0	No entities found in this tweet
+854890117709918208	31	36	B-organization
+854890117709918208	42	53	B-organization
+854890117638606849	0	0	No entities found in this tweet
+854890117412122624	0	0	No entities found in this tweet
+854890117311459328	0	0	No entities found in this tweet
+854890117307215873	1	7	B-person
+854890117219143680	1	12	B-person
+854890117139492864	21	27	B-person
+854890117139492864	29	32	B-person
+854890117139492864	33	38	I-person
+854890117139492864	56	67	B-organization
+854901641501433856	0	0	No entities found in this tweet
+854901641421705217	0	0	No entities found in this tweet
+854901641270763520	0	0	No entities found in this tweet
+854901641077829636	0	0	No entities found in this tweet
+854901640893276160	0	0	No entities found in this tweet
+854901640717119489	0	0	No entities found in this tweet
+854901640624832513	42	47	B-organization
+854901640297623552	79	86	B-organization
+854901640289288192	0	0	No entities found in this tweet
+854901640238948352	16	19	B-organization
+854901640238948352	20	25	I-organization
+854901639995691008	0	0	No entities found in this tweet
+854901639957942272	32	36	B-person
+854901639957942272	32	36	B-person
+854901639932784642	0	0	No entities found in this tweet
+854901639660097540	0	0	No entities found in this tweet
+854901639580442624	7	11	B-organization
+854901639580442624	12	16	I-organization
+854901639580442624	20	29	B-organization
+854901639492325376	13	19	B-person
+854901639387459585	0	0	No entities found in this tweet
+854901639270060035	0	0	No entities found in this tweet
+854901639010013188	0	0	No entities found in this tweet
+854901638741590018	0	0	No entities found in this tweet
+854901638586302464	0	0	No entities found in this tweet
+854901638250852352	0	0	No entities found in this tweet
+854901637638483968	0	0	No entities found in this tweet
+854901637495885825	0	0	No entities found in this tweet
+854901637424590848	0	0	No entities found in this tweet
+854901636732465152	0	0	No entities found in this tweet
+854901636556304384	0	0	No entities found in this tweet
+854901635667173376	0	0	No entities found in this tweet
+854901635402911744	0	0	No entities found in this tweet
+854901634815725568	0	0	No entities found in this tweet
+854901634777976832	0	0	No entities found in this tweet
+854901634668875778	0	0	No entities found in this tweet
+854901634555686912	19	26	B-person
+854901634534649856	0	0	No entities found in this tweet
+854915081557159936	0	0	No entities found in this tweet
+854915081238437888	0	0	No entities found in this tweet
+854915078243713024	0	0	No entities found in this tweet
+854915077039951873	0	0	No entities found in this tweet
+854915076817653760	0	0	No entities found in this tweet
+854915076796678145	0	0	No entities found in this tweet
+854915076683444224	0	0	No entities found in this tweet
+854915076557549570	0	0	No entities found in this tweet
+854915076482097152	0	0	No entities found in this tweet
+854915076104613888	0	0	No entities found in this tweet
+854915075358031872	11	17	B-organization
+854915075358031872	20	28	B-person
+854915075316076544	0	0	No entities found in this tweet
+854915073994784768	0	0	No entities found in this tweet
+854915073558687744	0	0	No entities found in this tweet
+854915073105690624	0	0	No entities found in this tweet
+854915072979857412	0	0	No entities found in this tweet
+854915072711438337	0	0	No entities found in this tweet
+854915071872577537	0	0	No entities found in this tweet
+854915071738351616	0	0	No entities found in this tweet
+854915071209766912	0	0	No entities found in this tweet
+854915070383575043	0	0	No entities found in this tweet
+854915070329049088	0	0	No entities found in this tweet
+854915069246939136	0	0	No entities found in this tweet
+854915068848476163	0	0	No entities found in this tweet
+854926600026062849	0	0	No entities found in this tweet
+854926599820595200	0	0	No entities found in this tweet
+854926598910476288	0	0	No entities found in this tweet
+854926598549770241	0	0	No entities found in this tweet
+854926598482649089	0	0	No entities found in this tweet
+854926598159687682	0	0	No entities found in this tweet
+854926598067412992	0	0	No entities found in this tweet
+854926596947537920	0	0	No entities found in this tweet
+854926596385492993	0	0	No entities found in this tweet
+854926596234522624	0	0	No entities found in this tweet
+854926594653261826	0	0	No entities found in this tweet
+854926593944416256	0	0	No entities found in this tweet
+854926593894080512	0	0	No entities found in this tweet
+854926593885646848	0	0	No entities found in this tweet
+854926593449480192	0	0	No entities found in this tweet
+854926592367357953	0	0	No entities found in this tweet
+854926591146721282	0	0	No entities found in this tweet
+854926590651846656	23	29	B-location
+854926589955641344	0	0	No entities found in this tweet
+854926588445687808	18	27	B-organization
+854926587803955200	0	0	No entities found in this tweet
+854926585224364033	0	0	No entities found in this tweet
+854926585119559680	0	0	No entities found in this tweet
+854926584582635522	0	0	No entities found in this tweet
+854926583139889152	0	0	No entities found in this tweet
+854926582372331520	0	0	No entities found in this tweet
+854926582309433344	0	0	No entities found in this tweet
+854926581680279552	0	0	No entities found in this tweet
+854926581076283393	38	42	B-person
+854926579981590528	0	0	No entities found in this tweet
+854926579973201920	0	0	No entities found in this tweet
+854926579679592448	0	0	No entities found in this tweet
+854926579528552448	0	0	No entities found in this tweet
+854926579339866113	0	0	No entities found in this tweet
+854926578920419328	0	0	No entities found in this tweet
+854940042892070912	0	0	No entities found in this tweet
+854940040178393088	18	24	B-location
+854940040165818368	0	0	No entities found in this tweet
+854940039431634948	0	0	No entities found in this tweet
+854940038068670465	0	0	No entities found in this tweet
+854940037741510656	0	0	No entities found in this tweet
+854940037015851009	0	0	No entities found in this tweet
+854940036176990208	0	0	No entities found in this tweet
+854940035149434880	0	0	No entities found in this tweet
+854940032481808384	0	0	No entities found in this tweet
+854940032272093184	0	0	No entities found in this tweet
+854940031722586112	0	0	No entities found in this tweet
+854940031718494208	0	0	No entities found in this tweet
+854940030392991744	0	0	No entities found in this tweet
+854940029612949508	0	0	No entities found in this tweet
+854940029445185536	0	0	No entities found in this tweet
+854940029122211840	0	0	No entities found in this tweet
+854940028878954498	0	0	No entities found in this tweet
+854940027742191616	0	0	No entities found in this tweet
+854940026316222464	0	0	No entities found in this tweet
+854940026219765760	0	0	No entities found in this tweet
+854940025938747392	0	0	No entities found in this tweet
+854940025749987328	72	78	B-person
+854940025749987328	79	85	I-person
+854940025749987328	86	92	B-person
+854940024198111232	0	0	No entities found in this tweet
+854940024172892160	0	0	No entities found in this tweet
+854940021601824768	0	0	No entities found in this tweet
+854940020997750785	0	0	No entities found in this tweet
+854940020406456320	0	0	No entities found in this tweet
+854940017940156416	0	0	No entities found in this tweet
+854940016929366016	0	0	No entities found in this tweet
+854940016761548800	0	0	No entities found in this tweet
+854940016421875713	0	0	No entities found in this tweet
+854940016002437121	72	77	B-organization
+854940014983217152	0	0	No entities found in this tweet
+854940014710587392	0	0	No entities found in this tweet
+854940014542823424	0	0	No entities found in this tweet
+854940013104173056	0	0	No entities found in this tweet
+854940012714102784	0	0	No entities found in this tweet
+854940012277903361	0	0	No entities found in this tweet
+854940010562367488	0	0	No entities found in this tweet
+854940006162550784	0	0	No entities found in this tweet
+854940005604745216	0	0	No entities found in this tweet
+854940005525073920	0	0	No entities found in this tweet
+854955397966331907	0	0	No entities found in this tweet
+854955396053815297	0	0	No entities found in this tweet
+854955388407615488	0	0	No entities found in this tweet
+854955388017541121	0	0	No entities found in this tweet
+854955387669360641	0	0	No entities found in this tweet
+854955384490123269	0	0	No entities found in this tweet
+854955384087470080	0	0	No entities found in this tweet
+854955383877718017	0	0	No entities found in this tweet
+854955383844220929	0	0	No entities found in this tweet
+854955383613468672	0	0	No entities found in this tweet
+854955382665621504	0	0	No entities found in this tweet
+854955380698484736	0	0	No entities found in this tweet
+854955379708579844	0	0	No entities found in this tweet
+854955378597122048	0	0	No entities found in this tweet
+854955377024262144	0	0	No entities found in this tweet
+854955375652687872	0	0	No entities found in this tweet
+854955374885167104	0	0	No entities found in this tweet
+854955372657954819	0	0	No entities found in this tweet
+854955372314062848	0	0	No entities found in this tweet
+854955371894644736	0	0	No entities found in this tweet
+854955370116255745	51	56	B-organization
+854955368937648129	0	0	No entities found in this tweet
+854955366601433088	0	0	No entities found in this tweet
+854955365078904833	0	0	No entities found in this tweet
+854955364789432320	0	0	No entities found in this tweet
+854955363610886144	3	6	B-organization
+854955363610886144	7	13	I-organization
+854955363610886144	25	27	B-organization
+854955362243497984	0	0	No entities found in this tweet
+854955359861182464	0	0	No entities found in this tweet
+854955357130686464	0	0	No entities found in this tweet
+854955353926230016	0	0	No entities found in this tweet
+854955350776324096	0	0	No entities found in this tweet
+854955350386237440	0	0	No entities found in this tweet
+854955349316685825	0	0	No entities found in this tweet
+854955348536504320	0	0	No entities found in this tweet
+854955346812710914	0	0	No entities found in this tweet
+854955345776713728	0	0	No entities found in this tweet
+854970761701990400	0	0	No entities found in this tweet
+854970759936184322	0	0	No entities found in this tweet
+854970758602391552	0	0	No entities found in this tweet
+854970757742460932	0	0	No entities found in this tweet
+854970755464953856	0	0	No entities found in this tweet
+854970751115505664	0	0	No entities found in this tweet
+854970745050550273	0	0	No entities found in this tweet
+854970741057572864	0	0	No entities found in this tweet
+854970738448769024	0	0	No entities found in this tweet
+854970733289766912	0	0	No entities found in this tweet
+854970729921695744	0	0	No entities found in this tweet
+854970728206225410	0	0	No entities found in this tweet
+854970726859853824	0	0	No entities found in this tweet
+854970723051462656	0	0	No entities found in this tweet
+854970722158075904	0	0	No entities found in this tweet
+854970721746944000	0	0	No entities found in this tweet
+854970720438411265	0	0	No entities found in this tweet
+854970716843913216	0	0	No entities found in this tweet
+854970716646764545	0	0	No entities found in this tweet
+854970714742456320	46	49	B-location
+854970714742456320	50	52	I-location
+854970714742456320	53	60	I-location
+854970713773670400	0	0	No entities found in this tweet
+854970712200818688	0	0	No entities found in this tweet
+854970710552391680	0	0	No entities found in this tweet
+854970710489522176	58	67	B-location
+854970703128530945	29	35	B-location
+854970702885212161	0	0	No entities found in this tweet
+854970700897165312	0	0	No entities found in this tweet
+854970696946126849	0	0	No entities found in this tweet
+854970695310344194	0	0	No entities found in this tweet
+854970685952806914	0	0	No entities found in this tweet
+854970677962706944	0	0	No entities found in this tweet
+854970677048332288	12	20	B-organization
+854970674170953728	0	0	No entities found in this tweet
+854970673042731008	0	0	No entities found in this tweet
+854986123868868608	0	0	No entities found in this tweet
+854986122287611904	0	0	No entities found in this tweet
+854986122270838784	0	0	No entities found in this tweet
+854986121264156673	0	0	No entities found in this tweet
+854986117959098368	15	20	B-location
+854986117959098368	21	24	I-location
+854986117959098368	25	32	I-location
+854986116893691904	0	0	No entities found in this tweet
+854986112011563008	0	0	No entities found in this tweet
+854986111856386048	30	37	B-person
+854986111856386048	39	46	B-person
+854986111856386048	49	56	B-person
+854986111856386048	92	97	B-person
+854986110988058624	0	0	No entities found in this tweet
+854986110623023104	0	0	No entities found in this tweet
+854986110551953408	0	0	No entities found in this tweet
+854255681217720320	0	0	No entities found in this tweet
+854986107347402752	0	0	No entities found in this tweet
+854986107343319040	0	0	No entities found in this tweet
+854986106949042176	16	18	B-location
+854986106772889600	0	0	No entities found in this tweet
+854986106651148289	0	0	No entities found in this tweet
+854986105917255681	0	0	No entities found in this tweet
+855001483892449280	1	7	B-person
+855001483892449280	35	42	B-person
+855001483892449280	45	50	B-person
+855001483892449280	51	56	I-person
+855001483464585216	0	0	No entities found in this tweet
+855001482902605824	27	30	B-location
+855001482902605824	31	38	I-location
+855001481166159872	0	0	No entities found in this tweet
+855001480826425345	0	0	No entities found in this tweet
+855001479450697728	0	0	No entities found in this tweet
+855001479068909570	0	0	No entities found in this tweet
+855001478297251840	0	0	No entities found in this tweet
+855001476183326721	1	7	B-person
+855001476183326721	8	13	I-person
+855001476183326721	36	42	B-person
+855001475159912449	0	0	No entities found in this tweet
+855001475088601088	0	0	No entities found in this tweet
+855001472471371776	0	0	No entities found in this tweet
+855001472462987264	0	0	No entities found in this tweet
+855001472408465410	0	0	No entities found in this tweet
+853902194537615360	0	0	No entities found in this tweet
+855001469933817856	0	0	No entities found in this tweet
+855001469518532608	0	0	No entities found in this tweet
+855001469279506432	15	24	B-location
+855001469279506432	25	27	I-location
+855001469279506432	28	37	I-location
+855001469279506432	25	27	I-location
+855001469279506432	41	50	B-location
+855001469279506432	51	64	I-location
+855001469279506432	25	27	I-location
+855001469279506432	68	71	I-location
+855001468604223488	0	0	No entities found in this tweet
+855001467635339264	0	0	No entities found in this tweet
+855001466926510080	0	0	No entities found in this tweet
+855001466918117376	0	0	No entities found in this tweet
+855001465974403073	0	0	No entities found in this tweet
+855001465437519873	0	0	No entities found in this tweet
+855001464745459712	0	0	No entities found in this tweet
+853902194537615360	0	0	No entities found in this tweet
+855001461981368320	0	0	No entities found in this tweet
+855001461532577792	0	0	No entities found in this tweet
+855001459196399617	0	0	No entities found in this tweet
+855001459171221504	0	0	No entities found in this tweet
+855001458810527744	12	18	B-organization
+855016844104802305	0	0	No entities found in this tweet
+855016844104695808	0	0	No entities found in this tweet
+855016843270082560	0	0	No entities found in this tweet
+855016842481586177	0	0	No entities found in this tweet
+855016842108207104	0	0	No entities found in this tweet
+855016841672101889	0	0	No entities found in this tweet
+855016840938102785	80	86	B-person
+855016840938102785	87	94	I-person
+855016840938102784	0	0	No entities found in this tweet
+855016840854220801	13	17	B-person
+855016840690626560	27	35	B-person
+855016840652836864	0	0	No entities found in this tweet
+855016840430596096	15	18	B-person
+855016839251972096	1	2	B-location
+855016839251972096	2	3	I-location
+855016839251972096	4	10	I-location
+855016839251972096	2	3	I-location
+855016839251972096	58	62	B-person
+855016839251972096	63	72	I-person
+855016839105179649	0	0	No entities found in this tweet
+855016838555729920	0	0	No entities found in this tweet
+855016838379515904	0	0	No entities found in this tweet
+855016837679067136	0	0	No entities found in this tweet
+855016837398056960	31	35	B-person
+855016836685062144	0	0	No entities found in this tweet
+855016836483645441	0	0	No entities found in this tweet
+855016836219457536	0	0	No entities found in this tweet
+855016834290122753	0	0	No entities found in this tweet
+855016834277441538	0	0	No entities found in this tweet
+855016832767414272	0	0	No entities found in this tweet
+855016832029401088	0	0	No entities found in this tweet
+855016831991640064	108	114	B-person
+855016831681265665	106	112	B-person
+855016831681265665	113	117	I-person
+855016831609966593	0	0	No entities found in this tweet
+855016831320555520	0	0	No entities found in this tweet
+855016830452289537	0	0	No entities found in this tweet
+855016829865136128	1	11	B-location
+855016829865136128	12	14	I-location
+855016829865136128	15	23	I-location
+855016829865136128	26	28	B-location
+855016829667999744	0	0	No entities found in this tweet
+855016828715880448	0	0	No entities found in this tweet
+855016828489400320	0	0	No entities found in this tweet
+855016827994476544	0	0	No entities found in this tweet
+855016827281436676	94	100	B-organization
+855016827189157888	0	0	No entities found in this tweet
+855016827088494593	0	0	No entities found in this tweet
+855016826857762816	0	0	No entities found in this tweet
+855016826736136193	0	0	No entities found in this tweet
+855016826568396800	0	0	No entities found in this tweet
+855016825758916608	0	0	No entities found in this tweet
+855016825712775168	0	0	No entities found in this tweet
+855016824966180864	32	36	I-person
+855016824966180864	37	39	I-person
+855016824966180864	40	53	I-person
+855016824873910273	0	0	No entities found in this tweet
+855032205235630080	0	0	No entities found in this tweet
+855032204744937472	0	0	No entities found in this tweet
+855032204023521280	0	0	No entities found in this tweet
+855032203448897538	0	0	No entities found in this tweet
+855032203214041088	54	56	I-location
+855032203214041088	30	34	B-person
+855032203214041088	48	53	B-location
+855032203214041088	54	56	I-location
+855032203214041088	57	64	I-location
+855032203016843264	0	0	No entities found in this tweet
+855032202282905600	0	0	No entities found in this tweet
+855032201934721025	0	0	No entities found in this tweet
+855032201595015168	0	0	No entities found in this tweet
+855032201502756864	0	0	No entities found in this tweet
+855032201041326081	35	44	B-organization
+855032201041326081	35	44	B-organization
+855032201041326081	82	86	B-person
+855032200521187329	0	0	No entities found in this tweet
+855032200051425280	0	0	No entities found in this tweet
+855032199837569028	0	0	No entities found in this tweet
+855032199715934214	0	0	No entities found in this tweet
+855032198583521280	0	0	No entities found in this tweet
+855032197836943360	0	0	No entities found in this tweet
+855032197459435520	0	0	No entities found in this tweet
+855032196599431168	42	47	B-person
+855032196599431168	69	73	B-organization
+855032195861409792	0	0	No entities found in this tweet
+855032195655880705	0	0	No entities found in this tweet
+855032195261624320	0	0	No entities found in this tweet
+855032194015911938	0	0	No entities found in this tweet
+855032193982357504	0	0	No entities found in this tweet
+855032193340624896	0	0	No entities found in this tweet
+855032193281863680	0	0	No entities found in this tweet
+855032191977390081	0	0	No entities found in this tweet
+855032191788740608	0	0	No entities found in this tweet
+855032191507714050	25	31	B-organization
+855032191411204097	0	0	No entities found in this tweet
+855032189850980352	1	6	B-person
+855032189850980352	7	12	I-person
+855047566517559297	0	0	No entities found in this tweet
+855047566383353856	0	0	No entities found in this tweet
+855047566337167361	0	0	No entities found in this tweet
+855047566202998784	30	36	B-person
+855047565901004800	0	0	No entities found in this tweet
+855047565561212931	0	0	No entities found in this tweet
+855047565473198080	0	0	No entities found in this tweet
+855047564869210113	23	28	B-person
+855047564256841728	0	0	No entities found in this tweet
+855047563656953858	0	0	No entities found in this tweet
+855047563044679680	21	26	B-person
+855047562944032768	0	0	No entities found in this tweet
+855047562637832192	0	0	No entities found in this tweet
+855047562612572160	0	0	No entities found in this tweet
+855047561958367236	17	23	B-person
+855047561958367236	26	33	B-person
+855047561568243712	74	78	B-person
+855047560872038400	0	0	No entities found in this tweet
+855047560704258050	0	0	No entities found in this tweet
+855047560481972225	0	0	No entities found in this tweet
+855047560305811457	0	0	No entities found in this tweet
+855047560054046721	0	0	No entities found in this tweet
+855047559848624128	0	0	No entities found in this tweet
+855047559601115136	70	78	B-location
+855047559458549760	0	0	No entities found in this tweet
+855047559261417472	0	0	No entities found in this tweet
+855047558737137664	0	0	No entities found in this tweet
+855047558636478464	0	0	No entities found in this tweet
+855047558606999552	0	0	No entities found in this tweet
+855047558074441728	0	0	No entities found in this tweet
+855047558061862913	0	0	No entities found in this tweet
+855047557503995904	0	0	No entities found in this tweet
+855047557390774273	0	0	No entities found in this tweet
+855047557332045828	3	9	B-person
+855047557130711040	0	0	No entities found in this tweet
+855047557071941635	0	0	No entities found in this tweet
+855047557051019268	0	0	No entities found in this tweet
+855047556967092226	0	0	No entities found in this tweet
+855047556887400448	0	0	No entities found in this tweet
+855047556006629376	27	32	B-person
+855047555448623104	1	6	B-person
+855047555448623104	9	13	B-person
+855047555192848385	0	0	No entities found in this tweet
+855062927266676739	0	0	No entities found in this tweet
+855062926360793088	0	0	No entities found in this tweet
+855062926339821569	0	0	No entities found in this tweet
+855062926293651456	0	0	No entities found in this tweet
+855062926125932545	0	0	No entities found in this tweet
+855062925924601861	0	0	No entities found in this tweet
+855062925614120961	42	51	B-organization
+855062925593255937	1	10	B-person
+855062925593255937	13	23	B-person
+855062925593255937	24	25	I-person
+855062925593255937	36	41	B-location
+855062925471514624	68	74	B-person
+855062924876017664	0	0	No entities found in this tweet
+855062924213268480	0	0	No entities found in this tweet
+855062923093430273	0	0	No entities found in this tweet
+855062922208452608	0	0	No entities found in this tweet
+855062921633726464	0	0	No entities found in this tweet
+855062921516388353	0	0	No entities found in this tweet
+855062921214382080	0	0	No entities found in this tweet
+855062921122115585	0	0	No entities found in this tweet
+855062920404889606	26	29	B-organization
+855062920190885888	0	0	No entities found in this tweet
+855062920077725697	26	33	B-location
+855062919960301568	0	0	No entities found in this tweet
+855062919914147840	0	0	No entities found in this tweet
+855062919817678849	0	0	No entities found in this tweet
+855062918995554305	85	88	B-person
+855062918848794624	0	0	No entities found in this tweet
+855062918685237249	0	0	No entities found in this tweet
+855062918311890944	0	0	No entities found in this tweet
+855062918001557509	0	0	No entities found in this tweet
+855062917410107392	0	0	No entities found in this tweet
+855062916499857410	1	4	B-organization
+855062916499857410	14	17	B-organization
+855062916499857410	45	50	B-person
+855062916499857410	51	60	I-person
+855062916311248896	0	0	No entities found in this tweet
+855062916290273280	0	0	No entities found in this tweet
+855078287676256256	41	46	B-person
+855078287676256256	47	53	I-person
+855078287638450176	0	0	No entities found in this tweet
+855078287328129025	0	0	No entities found in this tweet
+855078287055499264	0	0	No entities found in this tweet
+855078286841569280	0	0	No entities found in this tweet
+855078285646147585	1	6	B-organization
+855078285646147585	9	18	B-organization
+855078285029539840	0	0	No entities found in this tweet
+855078284757004288	0	0	No entities found in this tweet
+855078284043980800	0	0	No entities found in this tweet
+855078284006129665	95	100	B-organization
+855078283922341888	0	0	No entities found in this tweet
+855078283695853568	0	0	No entities found in this tweet
+855078283318353920	0	0	No entities found in this tweet
+855078283066658817	0	0	No entities found in this tweet
+855078283058270212	11	18	B-person
+855078283058270212	19	27	I-person
+855078282894745602	0	0	No entities found in this tweet
+855078282709975040	0	0	No entities found in this tweet
+855078281598701568	0	0	No entities found in this tweet
+855078281326075905	0	0	No entities found in this tweet
+855078281061830656	0	0	No entities found in this tweet
+855078280961159169	0	0	No entities found in this tweet
+855078280533336064	0	0	No entities found in this tweet
+855078280386498560	0	0	No entities found in this tweet
+855078280348794880	0	0	No entities found in this tweet
+855078279459557377	0	0	No entities found in this tweet
+855078279442833410	0	0	No entities found in this tweet
+855093648345763848	0	0	No entities found in this tweet
+855093648148639744	0	0	No entities found in this tweet
+855093648068927488	0	0	No entities found in this tweet
+855093647368499202	0	0	No entities found in this tweet
+855093647292981249	0	0	No entities found in this tweet
+855093647209107458	0	0	No entities found in this tweet
+855093647062302720	0	0	No entities found in this tweet
+855093647024549892	0	0	No entities found in this tweet
+855093646923890689	0	0	No entities found in this tweet
+855093646798061568	0	0	No entities found in this tweet
+855093646789677056	1	7	B-person
+855093646617702400	0	0	No entities found in this tweet
+855093646311514112	0	0	No entities found in this tweet
+855093646311469056	16	22	B-person
+855093646080835589	1	4	B-organization
+855093645674000386	0	0	No entities found in this tweet
+855093645086785537	0	0	No entities found in this tweet
+855093644851781632	0	0	No entities found in this tweet
+855093644071776259	0	0	No entities found in this tweet
+855093643337752577	0	0	No entities found in this tweet
+855093642830204928	0	0	No entities found in this tweet
+855093642784059392	0	0	No entities found in this tweet
+855093642515689477	0	0	No entities found in this tweet
+855093642347896833	0	0	No entities found in this tweet
+855093642343665664	0	0	No entities found in this tweet
+855093642326880256	0	0	No entities found in this tweet
+855093642280796160	0	0	No entities found in this tweet
+855093642083659776	0	0	No entities found in this tweet
+855093642033344512	0	0	No entities found in this tweet
+855093642012372993	0	0	No entities found in this tweet
+855093641970409478	0	0	No entities found in this tweet
+855093641848778752	0	0	No entities found in this tweet
+855093641848774656	62	64	B-location
+855093641764843521	0	0	No entities found in this tweet
+855093641752309760	0	0	No entities found in this tweet
+855093641630580737	33	43	B-person
+855093641362231296	25	29	B-person
+855093641014124547	0	0	No entities found in this tweet
+855093640972075008	14	21	B-person
+855093640502358016	1	7	B-person
+855093640284315650	0	0	No entities found in this tweet
+855093640284254208	0	0	No entities found in this tweet
+855093639969742848	0	0	No entities found in this tweet
+855093639797776384	0	0	No entities found in this tweet
+855093639629942784	0	0	No entities found in this tweet
+855093639575474176	0	0	No entities found in this tweet
+855109008902017026	0	0	No entities found in this tweet
+855109008335794176	0	0	No entities found in this tweet
+855109008323219456	0	0	No entities found in this tweet
+855109007958319105	14	17	B-person
+855109007299813379	0	0	No entities found in this tweet
+855109007161380865	0	0	No entities found in this tweet
+855109006863585282	0	0	No entities found in this tweet
+855109006079254531	0	0	No entities found in this tweet
+855109005861150720	0	0	No entities found in this tweet
+855109005601058816	0	0	No entities found in this tweet
+855109005219422208	0	0	No entities found in this tweet
+855109004355416064	0	0	No entities found in this tweet
+855109004330250244	0	0	No entities found in this tweet
+855109003852083200	0	0	No entities found in this tweet
+855109003348766720	0	0	No entities found in this tweet
+855109002346323968	0	0	No entities found in this tweet
+855109001549426689	37	42	B-person
+855109001419337732	44	53	B-person
+855109001247416320	47	58	B-organization
+855109000534347776	4	6	B-person
+855109000534347776	7	13	I-person
+855109000534347776	14	16	I-person
+855109000534347776	17	25	I-person
+855109000236597249	38	42	B-organization
+855108999766736897	0	0	No entities found in this tweet
+855108999460528128	0	0	No entities found in this tweet
+855108999448080384	0	0	No entities found in this tweet
+855108999448072192	0	0	No entities found in this tweet
+855108999263510528	1	9	B-organization
+855108999263510528	17	25	B-organization
+855108999263510528	26	36	I-organization
+855108999137685504	38	49	B-organization
+855124369349246976	0	0	No entities found in this tweet
+855124369332424704	0	0	No entities found in this tweet
+855124369089191936	0	0	No entities found in this tweet
+855124369009496068	0	0	No entities found in this tweet
+855124368581685248	0	0	No entities found in this tweet
+855124368288088064	0	0	No entities found in this tweet
+855124368220979200	0	0	No entities found in this tweet
+855124368019664896	0	0	No entities found in this tweet
+855124367298220037	0	0	No entities found in this tweet
+855124367205912578	0	0	No entities found in this tweet
+855124367205912576	1	7	B-person
+855124367008837632	0	0	No entities found in this tweet
+855124365847015425	0	0	No entities found in this tweet
+855124365834428418	0	0	No entities found in this tweet
+855124365557583872	0	0	No entities found in this tweet
+855124365133963264	0	0	No entities found in this tweet
+855124364949413889	7	12	B-person
+855124364869726209	1	6	B-person
+855124364785836032	0	0	No entities found in this tweet
+855124364781596672	0	0	No entities found in this tweet
+855124364764827649	35	42	B-location
+855124364764827649	43	49	I-location
+855124364764827649	54	64	B-location
+855124364764827649	69	72	B-location
+855124364764827649	73	82	I-location
+855124364068614144	0	0	No entities found in this tweet
+855124363426897923	0	0	No entities found in this tweet
+855124363275882496	0	0	No entities found in this tweet
+855124362906796032	0	0	No entities found in this tweet
+855124362160214016	0	0	No entities found in this tweet
+855124361954689029	0	0	No entities found in this tweet
+855124361396834305	0	0	No entities found in this tweet
+855124361208098816	24	28	B-person
+855124360729853953	0	0	No entities found in this tweet
+855124360637497344	1	9	B-organization
+855124360058867715	0	0	No entities found in this tweet
+855124359287119873	1	5	B-person
+855124358708285442	57	62	B-person
+855124358704107521	0	0	No entities found in this tweet
+855124358452449281	0	0	No entities found in this tweet
+855139729595125761	0	0	No entities found in this tweet
+855139729557336064	0	0	No entities found in this tweet
+855139729112739840	0	0	No entities found in this tweet
+855139729091809281	0	0	No entities found in this tweet
+855139729049767936	0	0	No entities found in this tweet
+855139728768847873	0	0	No entities found in this tweet
+855139728731111424	0	0	No entities found in this tweet
+855139728601079808	0	0	No entities found in this tweet
+855139727443451905	0	0	No entities found in this tweet
+855139727040708610	0	0	No entities found in this tweet
+855139726839476224	55	61	B-person
+855139726839476224	79	85	B-person
+855139726839476224	89	92	B-location
+855139726566838273	0	0	No entities found in this tweet
+855139726457794562	0	0	No entities found in this tweet
+855139726390685696	0	0	No entities found in this tweet
+855139726294228994	0	0	No entities found in this tweet
+855139726017392640	78	86	B-location
+855139725375664128	16	20	B-person
+855139725375664128	21	26	I-person
+855139724985597952	0	0	No entities found in this tweet
+855139724528431104	0	0	No entities found in this tweet
+855139724457111553	0	0	No entities found in this tweet
+855139724390019072	0	0	No entities found in this tweet
+855139724020903937	0	0	No entities found in this tweet
+855139723752472577	29	36	B-person
+855139723752472577	37	44	I-person
+855139723056205824	0	0	No entities found in this tweet
+855139722804551680	0	0	No entities found in this tweet
+855139722733146114	47	55	B-person
+855139722733146114	56	58	I-person
+855139722733146114	59	64	I-person
+855139722561191936	0	0	No entities found in this tweet
+855139722355757056	0	0	No entities found in this tweet
+855139722309619713	0	0	No entities found in this tweet
+855139722301014016	0	0	No entities found in this tweet
+855139721705607168	0	0	No entities found in this tweet
+855139721537875969	0	0	No entities found in this tweet
+855139721328177153	0	0	No entities found in this tweet
+855139720854212608	0	0	No entities found in this tweet
+855139720745156608	0	0	No entities found in this tweet
+855139720388644865	0	0	No entities found in this tweet
+855139719793049601	0	0	No entities found in this tweet
+855139719700787200	0	0	No entities found in this tweet
+855139719587528704	0	0	No entities found in this tweet
+855139719583342598	0	0	No entities found in this tweet
+855139719457501185	0	0	No entities found in this tweet
+855155090214105088	0	0	No entities found in this tweet
+855155090105171968	0	0	No entities found in this tweet
+855155090101071873	25	33	B-location
+855155090101071873	34	36	I-organization
+855155090101071873	37	47	I-organization
+855155089862008832	0	0	No entities found in this tweet
+855155089681653760	0	0	No entities found in this tweet
+855155089329315844	84	90	B-person
+855155088939261954	19	23	B-person
+855155088834404352	0	0	No entities found in this tweet
+855155088310108162	0	0	No entities found in this tweet
+855155087991296000	0	0	No entities found in this tweet
+855155087802605569	0	0	No entities found in this tweet
+855155087630585857	0	0	No entities found in this tweet
+855155087601274880	0	0	No entities found in this tweet
+855155086275817480	0	0	No entities found in this tweet
+855155086154231808	46	51	B-person
+855155086154231808	52	61	I-person
+855155085843865602	0	0	No entities found in this tweet
+855155085797728256	0	0	No entities found in this tweet
+855155085432762368	0	0	No entities found in this tweet
+855155085092978688	0	0	No entities found in this tweet
+855155083864150018	0	0	No entities found in this tweet
+855155083742511105	0	0	No entities found in this tweet
+855155083654377472	0	0	No entities found in this tweet
+855155082895249413	0	0	No entities found in this tweet
+855155082664521733	32	36	B-location
+855155082664521733	37	45	I-location
+855155082664521733	46	48	B-location
+855155082463244288	0	0	No entities found in this tweet
+855155081544642561	0	0	No entities found in this tweet
+855155081523720196	0	0	No entities found in this tweet
+855155081519484928	0	0	No entities found in this tweet
+855155081129451520	0	0	No entities found in this tweet
+855155081028792320	42	48	B-person
+855155081028792320	49	55	I-person
+855155080621957120	0	0	No entities found in this tweet
+855170450598629376	0	0	No entities found in this tweet
+855170450481180672	0	0	No entities found in this tweet
+855170450413899776	0	0	No entities found in this tweet
+855170450363748352	0	0	No entities found in this tweet
+855170450325942272	0	0	No entities found in this tweet
+855170449793323009	0	0	No entities found in this tweet
+855170449784885248	0	0	No entities found in this tweet
+855170449650716672	0	0	No entities found in this tweet
+855170449415831555	0	0	No entities found in this tweet
+855170449269039105	0	0	No entities found in this tweet
+855170449143209984	0	0	No entities found in this tweet
+855170448526626818	0	0	No entities found in this tweet
