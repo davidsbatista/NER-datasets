@@ -64,4 +64,14 @@ A dataset for named entity recognition in Brazilian legal documents is, unlike o
 - **cite**: ["LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text"](leNER-Br/luz_etal_propor2018.pdf)
 - **web**: https://cic.unb.br/~teodecampos/LeNER-Br/
 
+Peres 2017
+========
+A dataset for named entity recognition in Brazilian Portuguese (#noisydata #twitter)
+
+- **data**:
+  - [dataset.ptbr.twitter.train.ner](Peres2017/dataset.ptbr.twitter.train.ner)
+  - [dataset.ptbr.twitter.test.ner](Peres2017/dataset.ptbr.twitter.test.ner)  
+
+- **cite**: ["Bidirectional LSTM with a Context Input Window for Named Entity Recognition in Tweets"](Peres2017peres2017.pdf)
+
 
