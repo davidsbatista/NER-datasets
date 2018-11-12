@@ -72,6 +72,6 @@ A dataset for named entity recognition in Brazilian Portuguese (#noisydata #twit
   - [dataset.ptbr.twitter.train.ner](Peres2017/dataset.ptbr.twitter.train.ner)
   - [dataset.ptbr.twitter.test.ner](Peres2017/dataset.ptbr.twitter.test.ner)  
 
-- **cite**: ["Bidirectional LSTM with a Context Input Window for Named Entity Recognition in Tweets"](Peres2017peres2017.pdf)
+- **cite**: ["Bidirectional LSTM with a Context Input Window for Named Entity Recognition in Tweets"](Peres2017/Peres2017peres2017.pdf)
 
 
