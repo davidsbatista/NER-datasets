@@ -75,3 +75,16 @@ A dataset for named entity recognition in Brazilian Portuguese (#noisydata #twit
 - **cite**: ["Bidirectional LSTM with a Context Input Window for Named Entity Recognition in Tweets"](Peres2017/peres2017.pdf)
 
 
+
+WikiANN
+========
+
+WikiANN (sometimes called PAN-X) is a multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation) tags in the IOB2 format.
+
+- **data**: 
+  - [train](WikiANN/train)
+  - [extra](WikiANN/extra)
+  - [dev](WikiANN/dev)
+  - [test](WikiANN/test)  
+
+- **cite**: ["Cross-lingual Name Tagging and Linking for 282 Languages"](WikiANN/WikiANN.pdf)
