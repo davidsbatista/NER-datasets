@@ -10,6 +10,7 @@ Datasets to train supervised classifiers for Named-Entity Recognition
  * Peres2017
  * [WikiANN](https://huggingface.co/datasets/wikiann)
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 
 <a name="de"></a>
@@ -18,38 +19,47 @@ Datasets to train supervised classifiers for Named-Entity Recognition
  * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
  * [WikiANN](https://huggingface.co/datasets/wikiann)
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
+
  
 <a name="nl"></a>
 ### Dutch
  * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
  * [WikiANN](https://huggingface.co/datasets/wikiann)
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 <a name="fr"></a>
 ### French
  * [Europeana Newspapers](https://github.com/EuropeanaNewspapers/ner-corpora)
  * [WikiANN](https://huggingface.co/datasets/wikiann)
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 <a name="en"></a>
 ### English
  * [W-NUT2017](https://github.com/leondz/emerging_entities_17) Workshop on Noisy User-generated Text: Emerging and Rare entity recognition
  * [WikiANN](https://huggingface.co/datasets/wikiann)
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 <a name="it"></a>
 ### Italian
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 <a name="es"></a>
 ### Spanish
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 <a name="pl"></a>
 ### Polish
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
 <a name="ru"></a>
 ### Russian
  * [WikiNEuRal](https://github.com/Babelscape/wikineural)
+ * [MultiNERD](https://github.com/Babelscape/multinerd)
 
